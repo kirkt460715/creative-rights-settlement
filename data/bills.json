@@ -1,0 +1,90 @@
+[
+  {
+    "line": "TX-00",
+    "sku": "set-spring",
+    "channel": "网店",
+    "zone": "渝",
+    "fulfillment": "2026-08-17T09:00:00+08:00",
+    "gross": 9998,
+    "discount": 675,
+    "tax": 325,
+    "shipping": 309
+  },
+  {
+    "line": "TX-01",
+    "sku": "set-spring",
+    "channel": "网店",
+    "zone": "渝",
+    "fulfillment": "2026-08-21T09:00:00+08:00",
+    "gross": 9998,
+    "discount": 1200,
+    "tax": 310,
+    "shipping": 300
+  },
+  {
+    "line": "TX-02",
+    "sku": "card",
+    "channel": "馆店",
+    "zone": "川",
+    "fulfillment": "2026-08-21T09:00:00+08:00",
+    "gross": 1500,
+    "discount": 0,
+    "tax": 45,
+    "shipping": 0
+  },
+  {
+    "line": "TX-03",
+    "sku": "set-spring",
+    "channel": "馆店",
+    "zone": "渝",
+    "fulfillment": "2026-08-28T09:00:00+08:00",
+    "gross": 9998,
+    "discount": 432,
+    "tax": 331,
+    "shipping": 0
+  },
+  {
+    "line": "TX-04",
+    "sku": "wrap",
+    "channel": "网店",
+    "zone": "渝",
+    "fulfillment": "2026-08-28T09:00:00+08:00",
+    "gross": 2199,
+    "discount": 200,
+    "tax": 77,
+    "shipping": 101
+  },
+  {
+    "line": "TX-05",
+    "sku": "wrap",
+    "channel": "网店",
+    "zone": "渝",
+    "fulfillment": "2026-08-30T09:00:00+08:00",
+    "gross": 2199,
+    "discount": 200,
+    "tax": 77,
+    "shipping": 101
+  },
+  {
+    "line": "TX-06",
+    "sku": "set-spring",
+    "channel": "网店",
+    "zone": "渝",
+    "fulfillment": "2026-09-07T09:00:00+08:00",
+    "gross": 9998,
+    "discount": 350,
+    "tax": 337,
+    "shipping": 300
+  },
+  {
+    "line": "TX-07",
+    "sku": "set-spring",
+    "channel": "馆店",
+    "zone": "川",
+    "fulfillment": "2026-09-10T09:00:00+08:00",
+    "gross": 9998,
+    "discount": 279,
+    "tax": 411,
+    "shipping": 0
+  }
+]

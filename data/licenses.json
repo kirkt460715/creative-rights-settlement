@@ -1,0 +1,132 @@
+[
+  {
+    "version": "V1",
+    "license": "A",
+    "parent": null,
+    "work": "W11",
+    "holder": "museum-a",
+    "rate_bps": 900,
+    "zones": [
+      "渝",
+      "川"
+    ],
+    "channels": [
+      "馆店",
+      "网店"
+    ],
+    "from_at": "2026-08-01",
+    "until_at": "2026-10-15",
+    "known": "2026-08-01T09:00:00+08:00",
+    "state": "生效"
+  },
+  {
+    "version": "V2",
+    "license": "A1",
+    "parent": "A",
+    "work": "W11",
+    "holder": "designer-x",
+    "rate_bps": 400,
+    "zones": [
+      "渝"
+    ],
+    "channels": [
+      "网店"
+    ],
+    "from_at": "2026-08-04",
+    "until_at": "2026-10-10",
+    "known": "2026-08-05T09:00:00+08:00",
+    "state": "生效"
+  },
+  {
+    "version": "V3",
+    "license": "B",
+    "parent": null,
+    "work": "W12",
+    "holder": "museum-b",
+    "rate_bps": 1200,
+    "zones": [
+      "渝"
+    ],
+    "channels": [
+      "馆店",
+      "网店"
+    ],
+    "from_at": "2026-08-01",
+    "until_at": "2026-10-22",
+    "known": "2026-08-06T09:00:00+08:00",
+    "state": "生效"
+  },
+  {
+    "version": "V4",
+    "license": "C",
+    "parent": null,
+    "work": "W13",
+    "holder": "museum-c",
+    "rate_bps": 1350,
+    "zones": [
+      "渝"
+    ],
+    "channels": [
+      "网店"
+    ],
+    "from_at": "2026-08-01",
+    "until_at": "2026-10-10",
+    "known": "2026-08-03T09:00:00+08:00",
+    "state": "生效"
+  },
+  {
+    "version": "V5",
+    "license": "A1",
+    "parent": "A",
+    "work": "W11",
+    "holder": "designer-x",
+    "rate_bps": 530,
+    "zones": [
+      "渝"
+    ],
+    "channels": [
+      "网店"
+    ],
+    "from_at": "2026-08-04",
+    "until_at": "2026-10-06",
+    "known": "2026-09-08T09:00:00+08:00",
+    "state": "生效"
+  },
+  {
+    "version": "V6",
+    "license": "C",
+    "parent": null,
+    "work": "W13",
+    "holder": "museum-c",
+    "rate_bps": 1350,
+    "zones": [
+      "渝"
+    ],
+    "channels": [
+      "网店"
+    ],
+    "from_at": "2026-08-01",
+    "until_at": "2026-08-29",
+    "known": "2026-09-01T09:00:00+08:00",
+    "state": "撤回"
+  },
+  {
+    "version": "V7",
+    "license": "B",
+    "parent": null,
+    "work": "W12",
+    "holder": "museum-b",
+    "rate_bps": 1120,
+    "zones": [
+      "渝"
+    ],
+    "channels": [
+      "馆店",
+      "网店"
+    ],
+    "from_at": "2026-08-01",
+    "until_at": "2026-10-22",
+    "known": "2026-09-18T09:00:00+08:00",
+    "state": "生效"
+  }
+]

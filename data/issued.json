@@ -1,0 +1,47 @@
+[
+  {
+    "statement": "AUG-PAID",
+    "issued": "2026-09-01T09:00:00+08:00",
+    "line": "TX-00",
+    "component": "notebook",
+    "holder": "museum-b",
+    "paid": 560,
+    "known_cutoff": "2026-08-31T23:00:00+08:00"
+  },
+  {
+    "statement": "AUG-PAID",
+    "issued": "2026-09-01T09:00:00+08:00",
+    "line": "TX-02",
+    "component": "card",
+    "holder": "museum-a",
+    "paid": 131,
+    "known_cutoff": "2026-08-31T23:00:00+08:00"
+  },
+  {
+    "statement": "AUG-PAID",
+    "issued": "2026-09-01T09:00:00+08:00",
+    "line": "TX-03",
+    "component": "notebook",
+    "holder": "museum-b",
+    "paid": 622,
+    "known_cutoff": "2026-08-31T23:00:00+08:00"
+  },
+  {
+    "statement": "AUG-PAID",
+    "issued": "2026-09-01T09:00:00+08:00",
+    "line": "TX-04",
+    "component": "tape",
+    "holder": "museum-c",
+    "paid": 246,
+    "known_cutoff": "2026-08-31T23:00:00+08:00"
+  },
+  {
+    "statement": "AUG-PAID",
+    "issued": "2026-09-01T09:00:00+08:00",
+    "line": "TX-05",
+    "component": "tape",
+    "holder": "museum-c",
+    "paid": 246,
+    "known_cutoff": "2026-08-31T23:00:00+08:00"
+  }
+]

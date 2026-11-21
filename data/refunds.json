@@ -1,0 +1,34 @@
+[
+  {
+    "id": "RF1",
+    "original": "TX-00",
+    "component": "pin",
+    "actual_refund": 887,
+    "net_refund": 820,
+    "posted": "2026-09-06T09:00:00+08:00"
+  },
+  {
+    "id": "RF2",
+    "original": "TX-00",
+    "component": "pin",
+    "actual_refund": 553,
+    "net_refund": 501,
+    "posted": "2026-09-13T09:00:00+08:00"
+  },
+  {
+    "id": "RF3",
+    "original": "TX-01",
+    "component": null,
+    "actual_refund": 1750,
+    "net_refund": 1637,
+    "posted": "2026-09-11T09:00:00+08:00"
+  },
+  {
+    "id": "RF4",
+    "original": "TX-04",
+    "component": null,
+    "actual_refund": 730,
+    "net_refund": 671,
+    "posted": "2026-09-20T09:00:00+08:00"
+  }
+]

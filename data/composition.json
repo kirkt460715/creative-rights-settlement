@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "set-spring",
+    "component": "pin",
+    "work": "W11",
+    "license": "A1",
+    "standalone": 3499,
+    "effective": "2026-08-01"
+  },
+  {
+    "sku": "set-spring",
+    "component": "notebook",
+    "work": "W12",
+    "license": "B",
+    "standalone": 5599,
+    "effective": "2026-08-01"
+  },
+  {
+    "sku": "set-spring",
+    "component": "package",
+    "work": null,
+    "license": null,
+    "standalone": 900,
+    "effective": "2026-08-01"
+  },
+  {
+    "sku": "set-spring",
+    "component": "pin",
+    "work": "W11",
+    "license": "A",
+    "standalone": 3399,
+    "effective": "2026-09-02"
+  },
+  {
+    "sku": "set-spring",
+    "component": "notebook",
+    "work": "W12",
+    "license": "B",
+    "standalone": 5699,
+    "effective": "2026-09-02"
+  },
+  {
+    "sku": "set-spring",
+    "component": "package",
+    "work": null,
+    "license": null,
+    "standalone": 900,
+    "effective": "2026-09-02"
+  },
+  {
+    "sku": "wrap",
+    "component": "tape",
+    "work": "W13",
+    "license": "C",
+    "standalone": 2199,
+    "effective": "2026-08-01"
+  },
+  {
+    "sku": "card",
+    "component": "card",
+    "work": "W11",
+    "license": "A",
+    "standalone": 1500,
+    "effective": "2026-08-01"
+  }
+]
